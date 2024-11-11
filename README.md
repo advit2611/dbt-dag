@@ -1,4 +1,6 @@
-### Setup
+Setup
+========
+
     - Add `data_pipeline` folder in `~/dags/dbt/` to run dbt models
 
 Overview
